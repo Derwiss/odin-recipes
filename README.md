@@ -1,6 +1,6 @@
-# My Project
+My Project
 
-## Project Overview 
+Project Overview 
 
 - This will be the first project, that I am about to code.
 
